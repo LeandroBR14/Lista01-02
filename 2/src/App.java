@@ -5,6 +5,6 @@ public class App {
         System.out.println("Digite um número qualquer:");
         Scanner teclado = new Scanner(System.in);
         numero = teclado.nextDouble();
-        System.out.println("O número digitado é: " +numero+"aasd");
+        System.out.println("O número digitado é: " +numero);
     }
 }
